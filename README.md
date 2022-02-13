@@ -1,6 +1,6 @@
-- 👋 Hi, I’m JAGADEESHAYYA
-- 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m persuing SOFTWARE DEVELOPMENT COURSE (java) at NARAYAN TRAINING SERVICES BANGALORE
+- 👋 Hi, I’m JAGADEESHAYYA, from Karnataka, persuing software developer course.  beside's programming,i enjoy listening music and photography
+
+Known programming languages are- Java,c programming and HTML
 - 📫 mail id- jaggumj96@gmail.com
 
 <!---
